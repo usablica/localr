@@ -1,0 +1,31 @@
+{
+  "name": "localr",
+  "version": "0.0.1",
+  "description": "💻 Map localhost ports to localr.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usablica/localr.git"
+  },
+  "keywords": [
+    "localhost",
+    "port",
+    "reverse",
+    "proxy",
+    "proxy",
+    "localr"
+  ],
+  "author": "Afshin Mehrabani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usablica/localr/issues"
+  },
+  "homepage": "https://github.com/usablica/localr#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "http-proxy": "^1.14.0"
+  }
+}
