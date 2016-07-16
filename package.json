@@ -26,6 +26,7 @@
   "homepage": "https://github.com/usablica/localr#readme",
   "dependencies": {
     "commander": "^2.9.0",
+    "debug": "^2.2.0",
     "http-proxy": "^1.14.0"
   }
 }
